@@ -6,4 +6,3 @@ Some examples include:
 
 - Multiple processes waking up when a lock/mutex is released.
 - Clients being disconnected from server are trying to reconnect.
-
