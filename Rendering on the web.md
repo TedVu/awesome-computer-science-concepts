@@ -35,3 +35,8 @@ Producing a separate HTML file for each URL ahead of time, this hence gives real
 | FP                    | High        |
 | FCP                   | High        |
 | TTI                   | High        |
+
+## Client-Side Rendering
+
+Client-Side rendering means rendering pages directly in the browser using JavaScript. All logic, data fetching, templating and routing are handled on the client rather than the server.
+
