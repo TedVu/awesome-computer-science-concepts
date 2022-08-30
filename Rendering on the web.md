@@ -40,6 +40,8 @@ Producing a separate HTML file for each URL ahead of time, this hence gives real
 
 Client-Side rendering means rendering pages directly in the browser using JavaScript. All logic, data fetching, templating and routing are handled on the client rather than the server. A primary drawback of this rendering technique is that the amount of JavaScript code tends to grow as application grows, this hence requires some subtle configuration in build tools such as Webpack use some techniques such as code splitting and lazy-loading.
 
+A better explanation of client-side rendering: The bare-bones HTML is sent over and then JavaScript will fetch and assemble content.
+
 | Performance parameter | Performance |
 | --------------------- | ----------- |
 | TTFB                  | High        |
